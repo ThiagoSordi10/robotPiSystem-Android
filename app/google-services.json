@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341731839538",
+    "firebase_url": "https://robot-pi-e9762.firebaseio.com",
+    "project_id": "robot-pi-e9762",
+    "storage_bucket": "robot-pi-e9762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341731839538:android:81fd32b345c43f7c",
+        "android_client_info": {
+          "package_name": "br.com.thiago.robotPi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341731839538-g37ociih0lmu315mb868k37rh17ntd3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-F9oAY410nZKB-qLcNhD9seuvfSRiTgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
